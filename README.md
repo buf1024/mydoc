@@ -1,0 +1,4 @@
+mydoc
+=====
+
+my study document
