@@ -1,0 +1,1 @@
+regsvr32 /u "D:\Program Files\LGCUtil\LGCUtil.dll"
